@@ -1,0 +1,7 @@
+{
+  "name": "nezlamnist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
